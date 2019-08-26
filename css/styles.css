@@ -1,0 +1,47 @@
+
+
+
+img {
+  border-radius: 50%;
+}
+  
+  
+
+
+
+
+  body{
+  font-family: "Times New Roman", Times, serif;
+}
+  
+  
+center{
+	
+	font-size: 60px ; background-color: rgb(22,181,104)
+	
+}
+
+p{
+	font-size: 40px; background-color: rgb(22,181,104)
+}
+
+
+h2{ 
+   font-size: 50px;
+    
+}
+h2#clean{
+
+font-size: 30px;
+ padding-left: 80%;
+ background-color: rgb(22,181,104)
+}
+
+ h1  {
+	 text-align: center; background-color: rgb(22,181,104)
+ }
+ 
+ul{
+	font-size: 30px;
+}
+ 
